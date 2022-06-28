@@ -1,0 +1,60 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: century gothic;
+	text-align: center;
+}
+
+.form-register{
+    width: 400px;
+    background: #29658ac4;
+    padding: 30px;
+    left: auto;
+    margin-top: 0px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+	gap: 20px;
+	display: block;
+	margin: auto;
+}
+
+.form-register h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.controls{
+    width: 100%;
+    background: #ffffff;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #0d1527;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.form-register a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+.form-register .btn{
+	border-radius: 10px;
+    width: 50%;
+    padding: 8px;
+    border: none;
+    margin: 16px 0;
+	font-family: 'calibri';
+	font-size: 17px;
+}
+
+body{
+	background-image:url(lima_0.png);
+	width: 100%;
+	height:100%;
+	background-size: cover;
+}
